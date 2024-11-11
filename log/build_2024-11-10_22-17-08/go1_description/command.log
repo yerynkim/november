@@ -1,0 +1,4 @@
+Invoking command in '/home/yk/rosros/build/go1_description': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/yk/rosros/install/go1_navigation:/opt/ros/humble /usr/bin/cmake --build /home/yk/rosros/build/go1_description -- -j2 -l2
+Invoked command in '/home/yk/rosros/build/go1_description' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/yk/rosros/install/go1_navigation:/opt/ros/humble /usr/bin/cmake --build /home/yk/rosros/build/go1_description -- -j2 -l2
+Invoking command in '/home/yk/rosros/build/go1_description': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/yk/rosros/install/go1_navigation:/opt/ros/humble /usr/bin/cmake --install /home/yk/rosros/build/go1_description
+Invoked command in '/home/yk/rosros/build/go1_description' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/yk/rosros/install/go1_navigation:/opt/ros/humble /usr/bin/cmake --install /home/yk/rosros/build/go1_description

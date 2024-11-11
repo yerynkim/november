@@ -1,0 +1,5 @@
+  File "/home/yk/rosros/install/go1_navigation/lib/python3.10/site-packages/go1_navigation/static_map_publisher.py", line 71
+    self.get_logger().info('Map published')j
+                                           ^
+SyntaxError: invalid syntax
+

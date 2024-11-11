@@ -1,0 +1,31 @@
+[0.074s] Invoking command in '/home/yk/rosros/build/go1_gazebo': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/yk/rosros/install/go1_navigation:/opt/ros/humble /usr/bin/cmake --build /home/yk/rosros/build/go1_gazebo -- -j2 -l2
+[0.489s] Invoked command in '/home/yk/rosros/build/go1_gazebo' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/yk/rosros/install/go1_navigation:/opt/ros/humble /usr/bin/cmake --build /home/yk/rosros/build/go1_gazebo -- -j2 -l2
+[0.607s] Invoking command in '/home/yk/rosros/build/go1_gazebo': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/yk/rosros/install/go1_navigation:/opt/ros/humble /usr/bin/cmake --install /home/yk/rosros/build/go1_gazebo
+[0.642s] -- Install configuration: ""
+[0.642s] -- Up-to-date: /home/yk/rosros/install/go1_gazebo/share/go1_gazebo//launch
+[0.642s] -- Up-to-date: /home/yk/rosros/install/go1_gazebo/share/go1_gazebo//launch/spawn_go1.launch.py
+[0.643s] -- Up-to-date: /home/yk/rosros/install/go1_gazebo/share/go1_gazebo//launch/start_world.launch.py
+[0.643s] -- Up-to-date: /home/yk/rosros/install/go1_gazebo/share/go1_gazebo//launch/controllers_go1.launch.py
+[0.643s] -- Up-to-date: /home/yk/rosros/install/go1_gazebo/share/go1_gazebo//worlds
+[0.643s] -- Up-to-date: /home/yk/rosros/install/go1_gazebo/share/go1_gazebo//worlds/simple_rooms.world
+[0.643s] -- Up-to-date: /home/yk/rosros/install/go1_gazebo/share/go1_gazebo//worlds/test_latest.world
+[0.643s] -- Up-to-date: /home/yk/rosros/install/go1_gazebo/share/go1_gazebo//worlds/building_editor_models
+[0.643s] -- Up-to-date: /home/yk/rosros/install/go1_gazebo/share/go1_gazebo//worlds/building_editor_models/stairs
+[0.643s] -- Up-to-date: /home/yk/rosros/install/go1_gazebo/share/go1_gazebo//worlds/building_editor_models/stairs/model.sdf
+[0.643s] -- Up-to-date: /home/yk/rosros/install/go1_gazebo/share/go1_gazebo//worlds/building_editor_models/stairs/model.config
+[0.643s] -- Up-to-date: /home/yk/rosros/install/go1_gazebo/share/ament_index/resource_index/package_run_dependencies/go1_gazebo
+[0.643s] -- Up-to-date: /home/yk/rosros/install/go1_gazebo/share/ament_index/resource_index/parent_prefix_path/go1_gazebo
+[0.643s] -- Up-to-date: /home/yk/rosros/install/go1_gazebo/share/go1_gazebo/environment/ament_prefix_path.sh
+[0.643s] -- Up-to-date: /home/yk/rosros/install/go1_gazebo/share/go1_gazebo/environment/ament_prefix_path.dsv
+[0.644s] -- Up-to-date: /home/yk/rosros/install/go1_gazebo/share/go1_gazebo/environment/path.sh
+[0.644s] -- Up-to-date: /home/yk/rosros/install/go1_gazebo/share/go1_gazebo/environment/path.dsv
+[0.644s] -- Up-to-date: /home/yk/rosros/install/go1_gazebo/share/go1_gazebo/local_setup.bash
+[0.644s] -- Up-to-date: /home/yk/rosros/install/go1_gazebo/share/go1_gazebo/local_setup.sh
+[0.644s] -- Up-to-date: /home/yk/rosros/install/go1_gazebo/share/go1_gazebo/local_setup.zsh
+[0.644s] -- Up-to-date: /home/yk/rosros/install/go1_gazebo/share/go1_gazebo/local_setup.dsv
+[0.644s] -- Installing: /home/yk/rosros/install/go1_gazebo/share/go1_gazebo/package.dsv
+[0.644s] -- Up-to-date: /home/yk/rosros/install/go1_gazebo/share/ament_index/resource_index/packages/go1_gazebo
+[0.644s] -- Up-to-date: /home/yk/rosros/install/go1_gazebo/share/go1_gazebo/cmake/go1_gazeboConfig.cmake
+[0.644s] -- Up-to-date: /home/yk/rosros/install/go1_gazebo/share/go1_gazebo/cmake/go1_gazeboConfig-version.cmake
+[0.644s] -- Up-to-date: /home/yk/rosros/install/go1_gazebo/share/go1_gazebo/package.xml
+[0.695s] Invoked command in '/home/yk/rosros/build/go1_gazebo' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/yk/rosros/install/go1_navigation:/opt/ros/humble /usr/bin/cmake --install /home/yk/rosros/build/go1_gazebo

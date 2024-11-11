@@ -1,0 +1,39 @@
+[0.025s] Invoking command in '/home/yk/rosros/build/ros2_unitree_legged_control': CMAKE_PREFIX_PATH=/home/yk/rosros/install/ros2_unitree_legged_msgs:/home/yk/rosros/install/unitree_guide2:/home/yk/rosros/install/ros2_unitree_legged_control:/home/yk/rosros/install/go1_gazebo:/home/yk/rosros/install/go1_description:/home/yk/rosros/install/go1_navigation:/opt/ros/humble LD_LIBRARY_PATH=/home/yk/rosros/install/ros2_unitree_legged_msgs/lib:/home/yk/rosros/install/ros2_unitree_legged_control/lib:/usr/lib/x86_64-linux-gnu/gazebo-11/plugins:/opt/ros/humble/opt/rviz_ogre_vendor/lib:/opt/ros/humble/lib/x86_64-linux-gnu:/opt/ros/humble/lib /usr/bin/cmake --build /home/yk/rosros/build/ros2_unitree_legged_control -- -j2 -l2
+[0.075s] [ 33%] Built target ros2_unitree_legged_control_parameters
+[0.127s] [100%] Built target ros2_unitree_legged_control
+[0.147s] Invoked command in '/home/yk/rosros/build/ros2_unitree_legged_control' returned '0': CMAKE_PREFIX_PATH=/home/yk/rosros/install/ros2_unitree_legged_msgs:/home/yk/rosros/install/unitree_guide2:/home/yk/rosros/install/ros2_unitree_legged_control:/home/yk/rosros/install/go1_gazebo:/home/yk/rosros/install/go1_description:/home/yk/rosros/install/go1_navigation:/opt/ros/humble LD_LIBRARY_PATH=/home/yk/rosros/install/ros2_unitree_legged_msgs/lib:/home/yk/rosros/install/ros2_unitree_legged_control/lib:/usr/lib/x86_64-linux-gnu/gazebo-11/plugins:/opt/ros/humble/opt/rviz_ogre_vendor/lib:/opt/ros/humble/lib/x86_64-linux-gnu:/opt/ros/humble/lib /usr/bin/cmake --build /home/yk/rosros/build/ros2_unitree_legged_control -- -j2 -l2
+[0.194s] Invoking command in '/home/yk/rosros/build/ros2_unitree_legged_control': CMAKE_PREFIX_PATH=/home/yk/rosros/install/ros2_unitree_legged_msgs:/home/yk/rosros/install/unitree_guide2:/home/yk/rosros/install/ros2_unitree_legged_control:/home/yk/rosros/install/go1_gazebo:/home/yk/rosros/install/go1_description:/home/yk/rosros/install/go1_navigation:/opt/ros/humble LD_LIBRARY_PATH=/home/yk/rosros/install/ros2_unitree_legged_msgs/lib:/home/yk/rosros/install/ros2_unitree_legged_control/lib:/usr/lib/x86_64-linux-gnu/gazebo-11/plugins:/opt/ros/humble/opt/rviz_ogre_vendor/lib:/opt/ros/humble/lib/x86_64-linux-gnu:/opt/ros/humble/lib /usr/bin/cmake --install /home/yk/rosros/build/ros2_unitree_legged_control
+[0.200s] -- Install configuration: ""
+[0.200s] -- Up-to-date: /home/yk/rosros/install/ros2_unitree_legged_control/include/ros2_unitree_legged_control_parameters
+[0.200s] -- Up-to-date: /home/yk/rosros/install/ros2_unitree_legged_control/include/ros2_unitree_legged_control_parameters/ros2_unitree_legged_control_parameters.hpp
+[0.200s] -- Up-to-date: /home/yk/rosros/install/ros2_unitree_legged_control/share/ros2_unitree_legged_control/ros2_unitree_legged_control.xml
+[0.202s] -- Up-to-date: /home/yk/rosros/install/ros2_unitree_legged_control/include/ros2_unitree_legged_control
+[0.202s] -- Up-to-date: /home/yk/rosros/install/ros2_unitree_legged_control/include/ros2_unitree_legged_control/ros2_unitree_legged_control
+[0.202s] -- Up-to-date: /home/yk/rosros/install/ros2_unitree_legged_control/include/ros2_unitree_legged_control/ros2_unitree_legged_control/visibility_control.h
+[0.202s] -- Up-to-date: /home/yk/rosros/install/ros2_unitree_legged_control/include/ros2_unitree_legged_control/ros2_unitree_legged_control/ros2_unitree_legged_control.hpp
+[0.202s] -- Up-to-date: /home/yk/rosros/install/ros2_unitree_legged_control/include/ros2_unitree_legged_control/ros2_unitree_legged_control/unitree_joint_control_tool.h
+[0.203s] -- Up-to-date: /home/yk/rosros/install/ros2_unitree_legged_control/lib/ros2_unitree_legged_control/libros2_unitree_legged_control.so
+[0.203s] -- Up-to-date: /home/yk/rosros/install/ros2_unitree_legged_control/share/ros2_unitree_legged_control/environment/library_path.sh
+[0.203s] -- Up-to-date: /home/yk/rosros/install/ros2_unitree_legged_control/share/ros2_unitree_legged_control/environment/library_path.dsv
+[0.203s] -- Up-to-date: /home/yk/rosros/install/ros2_unitree_legged_control/share/ament_index/resource_index/package_run_dependencies/ros2_unitree_legged_control
+[0.203s] -- Up-to-date: /home/yk/rosros/install/ros2_unitree_legged_control/share/ament_index/resource_index/parent_prefix_path/ros2_unitree_legged_control
+[0.203s] -- Up-to-date: /home/yk/rosros/install/ros2_unitree_legged_control/share/ros2_unitree_legged_control/environment/ament_prefix_path.sh
+[0.204s] -- Up-to-date: /home/yk/rosros/install/ros2_unitree_legged_control/share/ros2_unitree_legged_control/environment/ament_prefix_path.dsv
+[0.204s] -- Up-to-date: /home/yk/rosros/install/ros2_unitree_legged_control/share/ros2_unitree_legged_control/environment/path.sh
+[0.204s] -- Up-to-date: /home/yk/rosros/install/ros2_unitree_legged_control/share/ros2_unitree_legged_control/environment/path.dsv
+[0.204s] -- Up-to-date: /home/yk/rosros/install/ros2_unitree_legged_control/share/ros2_unitree_legged_control/local_setup.bash
+[0.204s] -- Up-to-date: /home/yk/rosros/install/ros2_unitree_legged_control/share/ros2_unitree_legged_control/local_setup.sh
+[0.204s] -- Up-to-date: /home/yk/rosros/install/ros2_unitree_legged_control/share/ros2_unitree_legged_control/local_setup.zsh
+[0.204s] -- Up-to-date: /home/yk/rosros/install/ros2_unitree_legged_control/share/ros2_unitree_legged_control/local_setup.dsv
+[0.204s] -- Installing: /home/yk/rosros/install/ros2_unitree_legged_control/share/ros2_unitree_legged_control/package.dsv
+[0.204s] -- Up-to-date: /home/yk/rosros/install/ros2_unitree_legged_control/share/ament_index/resource_index/packages/ros2_unitree_legged_control
+[0.204s] -- Up-to-date: /home/yk/rosros/install/ros2_unitree_legged_control/share/ament_index/resource_index/controller_interface__pluginlib__plugin/ros2_unitree_legged_control
+[0.205s] -- Up-to-date: /home/yk/rosros/install/ros2_unitree_legged_control/share/ros2_unitree_legged_control/cmake/ros2_unitree_legged_controlExport.cmake
+[0.206s] -- Up-to-date: /home/yk/rosros/install/ros2_unitree_legged_control/share/ros2_unitree_legged_control/cmake/ros2_unitree_legged_controlExport-noconfig.cmake
+[0.206s] -- Up-to-date: /home/yk/rosros/install/ros2_unitree_legged_control/share/ros2_unitree_legged_control/cmake/ament_cmake_export_libraries-extras.cmake
+[0.206s] -- Up-to-date: /home/yk/rosros/install/ros2_unitree_legged_control/share/ros2_unitree_legged_control/cmake/ament_cmake_export_targets-extras.cmake
+[0.206s] -- Up-to-date: /home/yk/rosros/install/ros2_unitree_legged_control/share/ros2_unitree_legged_control/cmake/ament_cmake_export_dependencies-extras.cmake
+[0.206s] -- Up-to-date: /home/yk/rosros/install/ros2_unitree_legged_control/share/ros2_unitree_legged_control/cmake/ros2_unitree_legged_controlConfig.cmake
+[0.206s] -- Up-to-date: /home/yk/rosros/install/ros2_unitree_legged_control/share/ros2_unitree_legged_control/cmake/ros2_unitree_legged_controlConfig-version.cmake
+[0.206s] -- Up-to-date: /home/yk/rosros/install/ros2_unitree_legged_control/share/ros2_unitree_legged_control/package.xml
+[0.209s] Invoked command in '/home/yk/rosros/build/ros2_unitree_legged_control' returned '0': CMAKE_PREFIX_PATH=/home/yk/rosros/install/ros2_unitree_legged_msgs:/home/yk/rosros/install/unitree_guide2:/home/yk/rosros/install/ros2_unitree_legged_control:/home/yk/rosros/install/go1_gazebo:/home/yk/rosros/install/go1_description:/home/yk/rosros/install/go1_navigation:/opt/ros/humble LD_LIBRARY_PATH=/home/yk/rosros/install/ros2_unitree_legged_msgs/lib:/home/yk/rosros/install/ros2_unitree_legged_control/lib:/usr/lib/x86_64-linux-gnu/gazebo-11/plugins:/opt/ros/humble/opt/rviz_ogre_vendor/lib:/opt/ros/humble/lib/x86_64-linux-gnu:/opt/ros/humble/lib /usr/bin/cmake --install /home/yk/rosros/build/ros2_unitree_legged_control

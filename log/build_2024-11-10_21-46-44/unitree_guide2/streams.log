@@ -1,0 +1,26 @@
+[0.020s] Invoking command in '/home/yk/rosros/build/unitree_guide2': CMAKE_PREFIX_PATH=/home/yk/rosros/install/ros2_unitree_legged_msgs:/home/yk/rosros/install/unitree_guide2:/home/yk/rosros/install/ros2_unitree_legged_control:/home/yk/rosros/install/go1_gazebo:/home/yk/rosros/install/go1_description:/home/yk/rosros/install/go1_navigation:/opt/ros/humble LD_LIBRARY_PATH=/home/yk/rosros/install/ros2_unitree_legged_msgs/lib:/home/yk/rosros/install/ros2_unitree_legged_control/lib:/usr/lib/x86_64-linux-gnu/gazebo-11/plugins:/opt/ros/humble/opt/rviz_ogre_vendor/lib:/opt/ros/humble/lib/x86_64-linux-gnu:/opt/ros/humble/lib /usr/bin/cmake --build /home/yk/rosros/build/unitree_guide2 -- -j2 -l2
+[0.157s] [35m[1mConsolidate compiler generated dependencies of target junior_ctrl[0m
+[0.337s] [  3%] [32mBuilding CXX object CMakeFiles/junior_ctrl.dir/src/quadProgpp/QuadProg++.cc.o[0m
+[4.158s] [  7%] [32m[1mLinking CXX executable junior_ctrl[0m
+[4.851s] [100%] Built target junior_ctrl
+[4.870s] Invoked command in '/home/yk/rosros/build/unitree_guide2' returned '0': CMAKE_PREFIX_PATH=/home/yk/rosros/install/ros2_unitree_legged_msgs:/home/yk/rosros/install/unitree_guide2:/home/yk/rosros/install/ros2_unitree_legged_control:/home/yk/rosros/install/go1_gazebo:/home/yk/rosros/install/go1_description:/home/yk/rosros/install/go1_navigation:/opt/ros/humble LD_LIBRARY_PATH=/home/yk/rosros/install/ros2_unitree_legged_msgs/lib:/home/yk/rosros/install/ros2_unitree_legged_control/lib:/usr/lib/x86_64-linux-gnu/gazebo-11/plugins:/opt/ros/humble/opt/rviz_ogre_vendor/lib:/opt/ros/humble/lib/x86_64-linux-gnu:/opt/ros/humble/lib /usr/bin/cmake --build /home/yk/rosros/build/unitree_guide2 -- -j2 -l2
+[5.062s] Invoking command in '/home/yk/rosros/build/unitree_guide2': CMAKE_PREFIX_PATH=/home/yk/rosros/install/ros2_unitree_legged_msgs:/home/yk/rosros/install/unitree_guide2:/home/yk/rosros/install/ros2_unitree_legged_control:/home/yk/rosros/install/go1_gazebo:/home/yk/rosros/install/go1_description:/home/yk/rosros/install/go1_navigation:/opt/ros/humble LD_LIBRARY_PATH=/home/yk/rosros/install/ros2_unitree_legged_msgs/lib:/home/yk/rosros/install/ros2_unitree_legged_control/lib:/usr/lib/x86_64-linux-gnu/gazebo-11/plugins:/opt/ros/humble/opt/rviz_ogre_vendor/lib:/opt/ros/humble/lib/x86_64-linux-gnu:/opt/ros/humble/lib /usr/bin/cmake --install /home/yk/rosros/build/unitree_guide2
+[5.083s] -- Install configuration: ""
+[5.086s] -- Installing: /home/yk/rosros/install/unitree_guide2/lib/unitree_guide2/junior_ctrl
+[5.098s] -- Set runtime path of "/home/yk/rosros/install/unitree_guide2/lib/unitree_guide2/junior_ctrl" to ""
+[5.100s] -- Up-to-date: /home/yk/rosros/install/unitree_guide2/share/ament_index/resource_index/package_run_dependencies/unitree_guide2
+[5.101s] -- Up-to-date: /home/yk/rosros/install/unitree_guide2/share/ament_index/resource_index/parent_prefix_path/unitree_guide2
+[5.102s] -- Up-to-date: /home/yk/rosros/install/unitree_guide2/share/unitree_guide2/environment/ament_prefix_path.sh
+[5.102s] -- Up-to-date: /home/yk/rosros/install/unitree_guide2/share/unitree_guide2/environment/ament_prefix_path.dsv
+[5.102s] -- Up-to-date: /home/yk/rosros/install/unitree_guide2/share/unitree_guide2/environment/path.sh
+[5.103s] -- Up-to-date: /home/yk/rosros/install/unitree_guide2/share/unitree_guide2/environment/path.dsv
+[5.103s] -- Up-to-date: /home/yk/rosros/install/unitree_guide2/share/unitree_guide2/local_setup.bash
+[5.103s] -- Up-to-date: /home/yk/rosros/install/unitree_guide2/share/unitree_guide2/local_setup.sh
+[5.103s] -- Up-to-date: /home/yk/rosros/install/unitree_guide2/share/unitree_guide2/local_setup.zsh
+[5.104s] -- Up-to-date: /home/yk/rosros/install/unitree_guide2/share/unitree_guide2/local_setup.dsv
+[5.104s] -- Installing: /home/yk/rosros/install/unitree_guide2/share/unitree_guide2/package.dsv
+[5.104s] -- Up-to-date: /home/yk/rosros/install/unitree_guide2/share/ament_index/resource_index/packages/unitree_guide2
+[5.104s] -- Up-to-date: /home/yk/rosros/install/unitree_guide2/share/unitree_guide2/cmake/unitree_guide2Config.cmake
+[5.104s] -- Up-to-date: /home/yk/rosros/install/unitree_guide2/share/unitree_guide2/cmake/unitree_guide2Config-version.cmake
+[5.104s] -- Up-to-date: /home/yk/rosros/install/unitree_guide2/share/unitree_guide2/package.xml
+[5.115s] Invoked command in '/home/yk/rosros/build/unitree_guide2' returned '0': CMAKE_PREFIX_PATH=/home/yk/rosros/install/ros2_unitree_legged_msgs:/home/yk/rosros/install/unitree_guide2:/home/yk/rosros/install/ros2_unitree_legged_control:/home/yk/rosros/install/go1_gazebo:/home/yk/rosros/install/go1_description:/home/yk/rosros/install/go1_navigation:/opt/ros/humble LD_LIBRARY_PATH=/home/yk/rosros/install/ros2_unitree_legged_msgs/lib:/home/yk/rosros/install/ros2_unitree_legged_control/lib:/usr/lib/x86_64-linux-gnu/gazebo-11/plugins:/opt/ros/humble/opt/rviz_ogre_vendor/lib:/opt/ros/humble/lib/x86_64-linux-gnu:/opt/ros/humble/lib /usr/bin/cmake --install /home/yk/rosros/build/unitree_guide2

@@ -1,0 +1,27 @@
+[1.711s] Invoking command in '/home/yk/rosros/src/unitree_ros2_sim/go1_sim/go1_navigation': PYTHONPATH=/home/yk/rosros/build/go1_navigation/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/yk/rosros/install/go1_navigation/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base ../../../../build/go1_navigation build --build-base /home/yk/rosros/build/go1_navigation/build install --record /home/yk/rosros/build/go1_navigation/install.log --single-version-externally-managed install_data
+[2.154s] running egg_info
+[2.155s] writing ../../../../build/go1_navigation/go1_navigation.egg-info/PKG-INFO
+[2.155s] writing dependency_links to ../../../../build/go1_navigation/go1_navigation.egg-info/dependency_links.txt
+[2.155s] writing entry points to ../../../../build/go1_navigation/go1_navigation.egg-info/entry_points.txt
+[2.156s] writing requirements to ../../../../build/go1_navigation/go1_navigation.egg-info/requires.txt
+[2.156s] writing top-level names to ../../../../build/go1_navigation/go1_navigation.egg-info/top_level.txt
+[2.159s] reading manifest file '../../../../build/go1_navigation/go1_navigation.egg-info/SOURCES.txt'
+[2.159s] adding license file 'LICENSE'
+[2.159s] writing manifest file '../../../../build/go1_navigation/go1_navigation.egg-info/SOURCES.txt'
+[2.159s] running build
+[2.159s] running build_py
+[2.160s] copying go1_navigation/static_map_publisher.py -> /home/yk/rosros/build/go1_navigation/build/lib/go1_navigation
+[2.160s] running install
+[2.160s] running install_lib
+[2.161s] copying /home/yk/rosros/build/go1_navigation/build/lib/go1_navigation/static_map_publisher.py -> /home/yk/rosros/install/go1_navigation/lib/python3.10/site-packages/go1_navigation
+[2.162s] byte-compiling /home/yk/rosros/install/go1_navigation/lib/python3.10/site-packages/go1_navigation/static_map_publisher.py to static_map_publisher.cpython-310.pyc
+[2.163s] Sorry: IndentationError: unexpected indent (static_map_publisher.py, line 73)
+[2.163s] running install_data
+[2.163s] running install_egg_info
+[2.165s] removing '/home/yk/rosros/install/go1_navigation/lib/python3.10/site-packages/go1_navigation-0.0.0-py3.10.egg-info' (and everything under it)
+[2.165s] Copying ../../../../build/go1_navigation/go1_navigation.egg-info to /home/yk/rosros/install/go1_navigation/lib/python3.10/site-packages/go1_navigation-0.0.0-py3.10.egg-info
+[2.184s] running install_scripts
+[2.204s] Installing nav_tf_publisher script to /home/yk/rosros/install/go1_navigation/lib/go1_navigation
+[2.205s] Installing static_map_publisher script to /home/yk/rosros/install/go1_navigation/lib/go1_navigation
+[2.206s] writing list of installed files to '/home/yk/rosros/build/go1_navigation/install.log'
+[2.266s] Invoked command in '/home/yk/rosros/src/unitree_ros2_sim/go1_sim/go1_navigation' returned '0': PYTHONPATH=/home/yk/rosros/build/go1_navigation/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/yk/rosros/install/go1_navigation/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base ../../../../build/go1_navigation build --build-base /home/yk/rosros/build/go1_navigation/build install --record /home/yk/rosros/build/go1_navigation/install.log --single-version-externally-managed install_data
