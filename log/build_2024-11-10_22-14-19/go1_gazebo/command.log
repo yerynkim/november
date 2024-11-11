@@ -1,4 +1,0 @@
-Invoking command in '/home/yk/rosros/build/go1_gazebo': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/yk/rosros/install/go1_navigation:/opt/ros/humble /usr/bin/cmake --build /home/yk/rosros/build/go1_gazebo -- -j2 -l2
-Invoked command in '/home/yk/rosros/build/go1_gazebo' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/yk/rosros/install/go1_navigation:/opt/ros/humble /usr/bin/cmake --build /home/yk/rosros/build/go1_gazebo -- -j2 -l2
-Invoking command in '/home/yk/rosros/build/go1_gazebo': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/yk/rosros/install/go1_navigation:/opt/ros/humble /usr/bin/cmake --install /home/yk/rosros/build/go1_gazebo
-Invoked command in '/home/yk/rosros/build/go1_gazebo' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/yk/rosros/install/go1_navigation:/opt/ros/humble /usr/bin/cmake --install /home/yk/rosros/build/go1_gazebo

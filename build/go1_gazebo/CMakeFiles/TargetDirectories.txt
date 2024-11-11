@@ -1,9 +1,0 @@
-/home/yk/rosros/build/go1_gazebo/CMakeFiles/uninstall.dir
-/home/yk/rosros/build/go1_gazebo/CMakeFiles/go1_gazebo_uninstall.dir
-/home/yk/rosros/build/go1_gazebo/CMakeFiles/test.dir
-/home/yk/rosros/build/go1_gazebo/CMakeFiles/edit_cache.dir
-/home/yk/rosros/build/go1_gazebo/CMakeFiles/rebuild_cache.dir
-/home/yk/rosros/build/go1_gazebo/CMakeFiles/list_install_components.dir
-/home/yk/rosros/build/go1_gazebo/CMakeFiles/install.dir
-/home/yk/rosros/build/go1_gazebo/CMakeFiles/install/local.dir
-/home/yk/rosros/build/go1_gazebo/CMakeFiles/install/strip.dir

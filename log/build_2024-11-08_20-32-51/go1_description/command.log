@@ -1,6 +1,0 @@
-Invoking command in '/home/yk/rosros/build/go1_description': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake /home/yk/rosros/src/unitree_ros2_sim/go1_sim/go1_description -DCMAKE_INSTALL_PREFIX=/home/yk/rosros/install/go1_description
-Invoked command in '/home/yk/rosros/build/go1_description' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake /home/yk/rosros/src/unitree_ros2_sim/go1_sim/go1_description -DCMAKE_INSTALL_PREFIX=/home/yk/rosros/install/go1_description
-Invoking command in '/home/yk/rosros/build/go1_description': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --build /home/yk/rosros/build/go1_description -- -j2 -l2
-Invoked command in '/home/yk/rosros/build/go1_description' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --build /home/yk/rosros/build/go1_description -- -j2 -l2
-Invoking command in '/home/yk/rosros/build/go1_description': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --install /home/yk/rosros/build/go1_description
-Invoked command in '/home/yk/rosros/build/go1_description' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --install /home/yk/rosros/build/go1_description
